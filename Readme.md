@@ -2,3 +2,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TopSlayer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://wakatime.com/badge/user/23d0d76e-c60c-4b2f-9b5f-1fdf65053ddd.svg"/>
