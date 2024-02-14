@@ -3,3 +3,4 @@
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TopSlayer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+  ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
