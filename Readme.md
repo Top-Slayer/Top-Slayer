@@ -1,8 +1,19 @@
   # [ Hello I'm Top and Goodbye 👋 ]
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Top-Slayer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight)
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TopSlayer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  <div align="center">
+    <img width=700px src="https://streak-stats.demolab.com?user=Top-Slayer&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat"/>
+    <br>
+    <table align="center">
+      <tr>
+        <th>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+        </th>
+        <th>
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TopSlayer&theme=radical&hide_border=true&bg_color=00000000&layout=compact"/>
+        </th>
+      </tr>
+    </table>
+  </div>
   
   ### **💻 Programming Languages:**
   
