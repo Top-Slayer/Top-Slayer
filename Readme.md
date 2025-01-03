@@ -16,19 +16,12 @@
     </table>
   </div>
   
-  ### **💻 Programming Languages:**
-  
-  ![C#](https://img.shields.io/badge/c%23-%23A32CC4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <div align="center">
+    
+  |                             Programming Languages                           |                                     Tools                                   |
+  | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+  | <img src="https://skillicons.dev/icons?i=c,cs,python,bash,go" /> | <img src="https://skillicons.dev/icons?i=unity,blender,neovim,vscode,arch" /> |    
+ 
   ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-  ### **📄 IDEs/Editors:**
-  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-  ### **💳 Can Support Me:**
-  
-  [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://top-slayer.itch.io/)
-  
+  </div>
