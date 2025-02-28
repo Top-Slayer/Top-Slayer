@@ -27,11 +27,13 @@ Just someone who wanna be Game-Dev and Cyber-Researcher ~~
 
 </div>
 
+
 ## I do something below:
 
 <div align="center">
   
-  |  Project name                |  Tools                                                        | Link                                                       |
-  | ---------------------------  | ------------------------------------------------------------- | ---------------------------------------------------------- |
-  | Gathered-Text project        | <img src="https://skillicons.dev/icons?i=go,bash,sqlite">     | https://github.com/Top-Slayer/Gathering-Text-Service.git   |
+  |  Project name                   |  Tools                                                        | Link                                                       |
+  | ------------------------------  | ------------------------------------------------------------- | ---------------------------------------------------------- |
+  | Gathering-Text-Service          | <img src="https://skillicons.dev/icons?i=go,bash,sqlite">     | https://github.com/Top-Slayer/Gathering-Text-Service.git   |
+  
 </div>
