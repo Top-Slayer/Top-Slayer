@@ -18,18 +18,18 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # commit 3D render
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # icon program
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_sort: activity
+          plugin_topics_limit: 20 # 0
           plugin_topics_mode: icons
-          
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
 
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_days: 365
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
