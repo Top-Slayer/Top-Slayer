@@ -6,11 +6,12 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
   <table align="center">
     <tr>
       <th>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+        <img src="github-metrics.svg"/>
 <!--         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TopSlayer&theme=radical&hide_border=true&bg_color=00000000&layout=compact"/> -->
       </th>
       <th>
-        <img src="github-metrics.svg"/>
+        <img src="github-stacks.svg"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
       </th>
     </tr>
   </table>
