@@ -1,13 +1,13 @@
 # [ Hello I'm Top and Goodbye 👋 ]
 Just someone who wanna be Game-Dev and do some software staff that I can.
 
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="
-    https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE
-  "
-/>
-  
+<p align="center">
+   <img
+      width="380"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+use+fedora+btw."
+    />
+</p>
+
 <div align="center">
   <br>
   <table align="center">
