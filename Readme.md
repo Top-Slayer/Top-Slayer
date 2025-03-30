@@ -30,7 +30,7 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
           <img src="https://skillicons.dev/icons?i=c,cs,python,bash,go" />
         </td>
         <td>
-          <img src="https://skillicons.dev/icons?i=unity,blender,neovim,vscode,arch" />
+          <img src="https://skillicons.dev/icons?i=unity,blender,neovim,vscode,arch,docker,firebase" />
         </td>
       </tr>
     </tbody>
