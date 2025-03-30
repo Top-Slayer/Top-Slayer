@@ -23,7 +23,7 @@ jobs:
           
           plugin_topics: yes
           plugin_topics_sort: activity
-          plugin_topics_limit: 20 # 0
+          plugin_topics_limit: 20
           plugin_topics_mode: icons
 
           plugin_habits: yes
@@ -34,7 +34,7 @@ jobs:
           plugin_wakatime_languages_other: true
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_days: 365
-          plugin_wakatime_limit: 50
+          plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: private
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
