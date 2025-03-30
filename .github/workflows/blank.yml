@@ -26,3 +26,10 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+          
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
