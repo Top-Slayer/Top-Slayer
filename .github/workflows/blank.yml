@@ -18,5 +18,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # commit 3D render
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # icon program
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
