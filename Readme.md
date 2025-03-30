@@ -7,7 +7,6 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
     <tr>
       <th>
         <img src="github-metrics.svg"/>
-<!--         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TopSlayer&theme=radical&hide_border=true&bg_color=00000000&layout=compact"/> -->
       </th>
       <th>
         <img src="github-stacks.svg"/>
