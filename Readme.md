@@ -1,6 +1,13 @@
 # [ Hello I'm Top and Goodbye 👋 ]
 Just someone who wanna be Game-Dev and do some software staff that I can.
 
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="
+    https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE
+  "
+/>
+  
 <div align="center">
   <br>
   <table align="center">
