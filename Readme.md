@@ -12,10 +12,10 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
   <table align="center">
     <tr>
       <th>
-        <img src="github-metrics.svg"/>
+        <img width="500" align="left" src="github-metrics.svg"/>
       </th>
       <th>
-        <img src="github-stacks.svg"/>
+        <img width="500" align="right" src="github-stacks.svg"/>
       </th>
     </tr>
   </table>
