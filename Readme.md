@@ -8,21 +8,13 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
 </p>
 
 <div align="center">
-  <br>
-  <table align="center">
-    <tr>
-      <th>
-        <img width="500" align="left" src="github-metrics.svg"/>
-      </th>
-      <th>
-        <img width="500" align="right" src="github-stacks.svg"/>
-      </th>
-    </tr>
-  </table>
+   <img width="480" align="left" src="github-metrics.svg"/>
+   <img width="480" align="right" src="github-stacks.svg"/>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
   <table>
     <thead>
       <tr>
