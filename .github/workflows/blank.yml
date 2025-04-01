@@ -19,6 +19,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
 
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
           plugin_wakatime: yes
           plugin_wakatime_languages_other: true
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
@@ -39,9 +42,6 @@ jobs:
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-stacks.svg
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
           plugin_habits: yes
           plugin_habits_facts: no
