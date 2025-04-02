@@ -9,7 +9,6 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
 
 <div align="center">
    <img src="github-metrics.svg"/>
-   <img src="github-stacks.svg"/>
 </div>
 
 <div align="center">
