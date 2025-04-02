@@ -8,8 +8,8 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
 </p>
 
 <div align="center">
-   <img width="480rem" align="left" src="github-metrics.svg"/>
-   <img width="480rem" align="left" src="github-stacks.svg"/>
+   <img width="450" align="center" src="github-metrics.svg"/>
+   <img width="450" align="center" src="github-stacks.svg"/>
 </div>
 
 <div align="center">
