@@ -63,7 +63,7 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
       <tr>
         <td> Project register into apartment </td>
         <td> <img src="https://skillicons.dev/icons?i=cpp,py,firebase,arduino"/> </td>
-        <td> https://github.com/Top-Slayer/Mini_game_Robot_workshop.git </td>
+        <td> https://github.com/Top-Slayer/Project_register_in_apartment.git </td>
       </tr>
     </tbody>
   </table>
