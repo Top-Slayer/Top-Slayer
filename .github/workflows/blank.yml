@@ -19,30 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          plugin_wakatime: yes
-          plugin_wakatime_languages_other: true
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_days: 365
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-
-  github-stack:
-    runs-on: ubuntu-latest
-    environment: 
-      name: metrics
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          base: ""
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-stacks.svg
-
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
@@ -65,6 +41,4 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 10
           plugin_starlists_limit_repositories: 5
-
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          
