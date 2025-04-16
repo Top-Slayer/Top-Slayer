@@ -18,12 +18,13 @@ jobs:
 
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: no
+          plugin_habits_charts: yes
           plugin_habits_days: 30
           plugin_habits_charts_type: classic
 
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_recent_days: 365
 
           plugin_wakatime: yes
           plugin_wakatime_languages_other: true
@@ -33,8 +34,10 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-          plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 2
 
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
