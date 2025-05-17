@@ -3,7 +3,7 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
 
 <p align="center">
    <img
-      src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+DON'T+KNOW,+TOO"
+      src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=Nah,+I'll+code"
     />
 </p>
 
