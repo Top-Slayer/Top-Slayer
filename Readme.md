@@ -7,12 +7,13 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
     />
 </p>
 
-# <div align="center">
-#   <img src="github-metrics.svg"/>
-# </div>
+<!-- 
+<div align="center">
+  <img src="github-metrics.svg"/>
+</div>
+-->
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
   <table>
     <thead>
       <tr>
@@ -23,7 +24,7 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
     <tbody>
       <tr>
         <td>
-          <img src="https://skillicons.dev/icons?i=c,rust,cs,python,bash,go" />
+          <img src="https://skillicons.dev/icons?i=c,rust,cs,python,bash" />
         </td>
         <td>
           <img src="https://skillicons.dev/icons?i=unity,blender,neovim,vscode,arch,docker,firebase" />
@@ -33,6 +34,8 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
   </table>
 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
