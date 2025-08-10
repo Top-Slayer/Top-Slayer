@@ -7,9 +7,9 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
     />
 </p>
 
-<div align="center">
-   <img src="github-metrics.svg"/>
-</div>
+# <div align="center">
+#   <img src="github-metrics.svg"/>
+# </div>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Slayer&langs_count=20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
@@ -23,7 +23,7 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
     <tbody>
       <tr>
         <td>
-          <img src="https://skillicons.dev/icons?i=c,cs,python,bash,go" />
+          <img src="https://skillicons.dev/icons?i=c,rust,cs,python,bash,go" />
         </td>
         <td>
           <img src="https://skillicons.dev/icons?i=unity,blender,neovim,vscode,arch,docker,firebase" />
