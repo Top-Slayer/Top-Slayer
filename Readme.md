@@ -24,7 +24,7 @@ Just someone who wanna be Game-Dev and do some software staff that I can.
     <tbody>
       <tr>
         <td>
-          <img src="https://skillicons.dev/icons?i=c,rust,cs,python,bash,ts" />
+          <img src="https://skillicons.dev/icons?i=c,rust,cs,python,bash" />
         </td>
         <td>
           <img src="https://skillicons.dev/icons?i=unity,blender,neovim,vscode,arch,docker,firebase,godot,nix" />
