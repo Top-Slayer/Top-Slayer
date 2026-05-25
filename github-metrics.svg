@@ -297,27 +297,27 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.8352373698908353 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.8343900583312198 329"/>
                                     <text x="60" y="50" dominant-baseline="central">10</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3939</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3943</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.785185185185185 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.7822410147991543 329"/>
                                     <text x="60" y="50" dominant-baseline="central">8</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/945</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/946</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.3195726080621661 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.319262493934983 329"/>
                                     <text x="60" y="50" dominant-baseline="central">2</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2059</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2061</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -326,7 +326,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/935</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/936</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -381,7 +381,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2026, 02:02:33  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2026, 02:10:30  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
